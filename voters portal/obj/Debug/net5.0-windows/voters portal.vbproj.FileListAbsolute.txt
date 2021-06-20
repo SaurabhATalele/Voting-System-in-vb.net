@@ -1,0 +1,37 @@
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\voters portal.exe
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\voters portal.deps.json
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\voters portal.runtimeconfig.json
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\voters portal.runtimeconfig.dev.json
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\voters portal.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\ref\voters portal.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\voters portal.pdb
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters portal.vbprojAssemblyReference.cache
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters_portal.Form1.resources
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters_portal.Form2.resources
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters portal.vbproj.GenerateResource.cache
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters portal.AssemblyInfoInputs.cache
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters portal.AssemblyInfo.vb
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters portal.vbproj.CoreCompileInputs.cache
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters portal.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\ref\voters portal.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters portal.pdb
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters portal.genruntimeconfig.cache
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\Zstandard.Net.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters_portal.Resources.resources
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters portal.vbproj.CopyComplete
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters_portal.Form3.resources
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters_portal.Form4.resources
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters_portal.Addvoter.resources
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters_portal.signup.resources
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters_portal.votes.resources
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters_portal.addnominee.resources
+C:\Users\CORECOMP\source\repos\voters portal\voters portal\obj\Debug\net5.0-windows\voters_portal.voterform.resources
